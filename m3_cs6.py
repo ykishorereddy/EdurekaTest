@@ -17,7 +17,6 @@ if __name__ == "__main__":
     start = int(raw_input('Enter Starting Range:'))
     end = int(raw_input('Enter Ending Range:'))
     calculate(start,end)
-
     #casestudy #7
     num = 1
     while num > 0:
